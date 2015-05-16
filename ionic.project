@@ -1,0 +1,10 @@
+{
+  "name": "github-trend",
+  "app_id": "3c79011a",
+  "proxies": [
+    {
+      "path": "/trending",
+      "proxyUrl": "https://www.kimonolabs.com/api"
+    }
+  ]
+}
